@@ -2,8 +2,15 @@
 
 ## Mods actuals:
 * [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+* [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 * [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 * [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
+* [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+* [Create Big Cannons](https://www.curseforge.com/minecraft/mc-mods/create-big-cannons)
+* [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
+* [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice)
+* [Create: New Age](https://www.curseforge.com/minecraft/mc-mods/create-new-age)
+* [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails)
 * [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse)
 * [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
 * [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
@@ -17,4 +24,5 @@
 * [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 * [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+* [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 * [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
