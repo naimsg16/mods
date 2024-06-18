@@ -26,3 +26,8 @@
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 * [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 * [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+
+## Futurs mods:
+* [Mob Plaques](https://www.curseforge.com/minecraft/mc-mods/mob-plaques)
+* [Easier Sleeping](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping)
+* [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
